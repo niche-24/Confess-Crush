@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "Tặng cho embes cua ngta",
+    titleWeb: " Tặng cho embes của ngta ",
     introTitle: 'Tặng cho embes của ngta',
     introDesc: `Nhân ngày embes dỗi ngtaa, hông thương ngtaa`,
     btnIntro: '😘😘 100 cái hun 😘😘',
@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Ỏooo, ngta iu embes 🥰. Ngta thưn embes 😘😘',
     messDesc: 'Embes làm việc xong thì kiuu ngta nhó. Ngta đợiii',
     btnAccept: 'Dạaa <3',
-    messLink: 'https://www.facebook.com/anhthu.leho/' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/anhthu.leho/' 
 }
