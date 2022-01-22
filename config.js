@@ -1,8 +1,8 @@
 const CONFIG = {
-    titleWeb: Tặng cho embes cua ngta",
+    titleWeb: "Tặng cho embes cua ngta",
     introTitle: 'Tặng cho embes của ngta',
     introDesc: `Nhân ngày embes dỗi ngtaa, hông thương ngtaa`,
-    btnIntro: '😘😘 100 cái hun 😘😘',',
+    btnIntro: '😘😘 100 cái hun 😘😘',
     title: 'À nhô embes chinh của em 🥰',
     desc: 'Giờ thì còn dỗi ngta hông nàoo? ',
     btnYes: 'Embes hong dỗiiii. Tối embes hun lại ngta nhó <33',
