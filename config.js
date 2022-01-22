@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    titleWeb: Tặng cho embes cua ngta",
+    introTitle: 'Tặng cho embes của ngta',
+    introDesc: `Nhân ngày embes dỗi ngtaa, hông thương ngtaa`,
+    btnIntro: '😘😘 100 cái hun 😘😘',',
+    title: 'À nhô embes chinh của em 🥰',
+    desc: 'Giờ thì còn dỗi ngta hông nàoo? ',
+    btnYes: 'Embes hong dỗiiii. Tối embes hun lại ngta nhó <33',
+    btnNo: 'Dỗiiiii :3',
+    question: 'Embes ngoann của ngta đồng ý fren request ngtaa ik <3',
+    btnReply: 'Embes iuu em <3',
+    reply: 'Dạaaa <33333333',
+    mess: 'Ỏooo, ngta iu embes 🥰. Ngta thưn embes 😘😘',
+    messDesc: 'Embes làm việc xong thì kiuu ngta nhó. Ngta đợiii',
+    btnAccept: 'Dạaa <3',
+    messLink: 'https://www.facebook.com/anhthu.leho/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
