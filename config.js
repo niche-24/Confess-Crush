@@ -2,7 +2,7 @@ const CONFIG = {
     titleWeb: " Tặng cho embes của ngta ",
     introTitle: 'Tặng cho embes của ngta',
     introDesc: `Nhân ngày embes dỗi ngtaa, hông thương ngtaa`,
-    btnIntro: '😘😘 Dạa embes đây ạa 😘😘',
+    btnIntro: '😘 Dạa embes đây ạa 😘',
     title: 'À nhô embes chinhh của em 🥰',
     desc: 'Giờ thì còn dỗi ngta hông nàoo? ',
     btnYes: 'Embes hong dỗiiii. Tối embes hun lại ngta nhó <33',
